@@ -1,6 +1,5 @@
 # Angular 2 Gantt 
 [![npm version](https://badge.fury.io/js/angular2-gantt.svg)](https://www.npmjs.com/package/angular2-gantt)
-[![Build Status](https://travis-ci.org/dalestone/angular2-gantt.svg?branch=master)](https://travis-ci.org/dalestone/angular2-gantt)
 
 This is the home for the Angular 2 gantt component. This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.18.
 
@@ -13,7 +12,7 @@ During alpha, breaking API and behaviour changes will be occuring regularly.
 ### Getting Started
 If you want to view the and modify the source directly do the following:
 
-1. git clone https://github.com/dalestone/angular2-gantt.git
+1. git clone https://github.com/sandifebrian/angular2-gantt.git
 2. npm install -g angular-cli
 2. npm install
 3. npm start
